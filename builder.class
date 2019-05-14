@@ -1,4 +1,4 @@
-namespace EZForms\builder;
+namespace EZForms;
 use PDO;
 use database;
 
